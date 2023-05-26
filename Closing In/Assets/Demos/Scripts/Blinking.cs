@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class EyeFollow : MonoBehaviour
 {
-    public gam
+    public GameObject eyes;
     // Start is called before the first frame update
     void Start()
     {
