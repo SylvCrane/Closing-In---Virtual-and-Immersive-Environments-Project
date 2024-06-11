@@ -1,2 +1,0 @@
-# Closing In
- VR Project
